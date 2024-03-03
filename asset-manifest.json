@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Expense-Manager/static/css/main.2cb918f2.css",
+    "main.js": "/Expense-Manager/static/js/main.8f50bda0.js",
+    "static/media/bg.png": "/Expense-Manager/static/media/bg.5d6e37827d387d3b46c2.png",
+    "static/media/avatar.png": "/Expense-Manager/static/media/avatar.417a43ec1b2211879a8c.png",
+    "index.html": "/Expense-Manager/index.html",
+    "main.2cb918f2.css.map": "/Expense-Manager/static/css/main.2cb918f2.css.map",
+    "main.8f50bda0.js.map": "/Expense-Manager/static/js/main.8f50bda0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cb918f2.css",
+    "static/js/main.8f50bda0.js"
+  ]
+}
